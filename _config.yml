@@ -78,7 +78,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Making sales teams more successful.
+          App Builder for App Builder
         description: | # this will include new lines to allow paragraphs
           Stay tuned, working on something big and can't wait to share ones it's ready. Meanwhile... Look at that beautiful picture.
 
@@ -91,7 +91,7 @@ content:
         link: https://retarus.com
         link_text: retarus.com
         sub_title: Lead Enterprise Architect
-        caption: Feb 2017 - Present
+        caption: Feb 2017 - Jan 2023
         #quote: >
         #    Responsible for the Enterprise API Program guiding the Product-Centric Organization towards the concept of API-as-a-Product.
         description: | # this will include new lines to allow paragraphs
